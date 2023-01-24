@@ -37,7 +37,7 @@ class BatchedMFFeedback(object):
 
         self.alpha_u = args.alpha_u
         self.beta_u = args.beta_u
-        simulator_path = os.path.join('simulator', "steam_simulator.npy")
+        simulator_path = os.path.join('simulator', "simulator.npy")
         print(simulator_path)
         #data_name =
         self.simulator = self.load_click_model(simulator_path)
