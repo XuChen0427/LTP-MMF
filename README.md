@@ -1,4 +1,4 @@
-The implementation of LTP-MMF in SIGIR 2023, no other use of the code is allowed!
+The implementation of LTP-MMF in TOIS, no other use of the code is allowed!
 
 We here only provide steam dataset, other dataset please download them from the urls in the paepr
 
