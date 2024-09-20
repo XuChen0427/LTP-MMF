@@ -1,6 +1,6 @@
 The implementation of LTP-MMF in TOIS 2024, no other use of the code is allowed!
 
-We here only provide steam dataset, other dataset please download them from the urls in the paepr
+We here only provide steam dataset, other dataset please download them from the urls in the paper
 
 Note that due to the limitation space of anonymous.4open.science, we only simulate it using 256 users and 100 epochs, please modify the parameters for other settings
 
