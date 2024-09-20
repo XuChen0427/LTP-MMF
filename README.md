@@ -1,4 +1,4 @@
-# The implementation of LTP-MMF in TOIS 2024
+# The implementation of LTP-MMF: Towards Long-term Provider Max-min Fairness Under Recommendation Feedback Loops in TOIS 2024
 
 ## any question, please mail to xc_chen@ruc.edu.cn
 
