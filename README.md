@@ -1,4 +1,6 @@
-The implementation of LTP-MMF in TOIS 2024, no other use of the code is allowed!
+# The implementation of LTP-MMF in TOIS 2024
+
+## any question, please mail to xc_chen@ruc.edu.cn
 
 We here only provide steam dataset, other dataset please download them from the urls in the paper
 
